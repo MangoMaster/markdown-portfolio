@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Penguin](https://img.purch.com/h/1400/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA0NC82ODAvb3JpZ2luYWwvZW1wZXJvci1wZW5ndWluLWljZS1wbHVtbWFnLmpwZw==)
