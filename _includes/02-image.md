@@ -1,1 +1,1 @@
-[Penguin](https://img.purch.com/h/1400/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzA0NC82ODAvb3JpZ2luYWwvZW1wZXJvci1wZW5ndWluLWljZS1wbHVtbWFnLmpwZw==)
+![Example picture](https://octodex.github.com/images/yaktocat.png)
